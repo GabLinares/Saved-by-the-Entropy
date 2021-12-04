@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - side
+  - topdown
+  - Left
+  - Right
+  - L
+  - R
+  - TileManager
+  - EndTile
+  - PlayerCar
+  - Obstacle
+  - Coin
+  - GateButton
+  - ObstacleLiquid
+  - Obstacle2
+  - MonsterStarter
+  - Monster
+  - GasButton
+  - MonsterAlert
+  - TimeStarter
+  - Window1
+  - Title
+  - Canvas
+  - Options
+  - LanguagesWindow
+  - Tutorial1
+  - Tutorial2
+  - Tutorial3
+  - Tutorial4
+  - Tutorial5
+  - Tutorial6
+  - Tutorial7
+  - CallText
+  - FirstLanguageWindow
+  - DeleteButton
+  - Grid
+  - YellowArrow
+  - TutorialParticles
+  - AchievementText
+  - AboutWindow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
