@@ -1,4 +1,4 @@
-# Saved-by-the-Entropy
+# Saved-by-the-Paradox
 A game based on the Maxwell's demon paradox, where you have to separate gas particles inside two connected chambers, taking into account their velocities in order to warm up one of them and cool down the another one.<br />
 With the energy obtained in the process of the two chambes of reaching thermal equilibrium again, you can propel a car that needs to scape from a monster. <br />
 This game uses the Verlet Algorithm to compute the forces and trajectories of the gas molecules interacting with a Lennard-Jones potential, and the first law of thermodynamics to calculate the energy obtained by a heat engine working on infinitesimal cycles.<br />
